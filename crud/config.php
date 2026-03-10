@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$dbname = 'car_rental_db';
+$dbname = 'simple_crud';
 $username = 'root';
 $password = '';
 
